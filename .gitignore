@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dados de pesquisa
+entrada/*
+!entrada/.gitkeep
+saida/*
+!saida/.gitkeep
+
+# Arquivos temporários
+*.log
+.ipynb_checkpoints/
